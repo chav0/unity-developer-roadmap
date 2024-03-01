@@ -44,3 +44,13 @@
 # Physics 
 - https://www.youtube.com/playlist?list=PLYnrabpSIM-9t5JNPszbIe4S4Tz81o76A
 - https://pikuma.com/blog/math-for-game-developers
+
+# Multiplayer 
+- https://docs-multiplayer.unity3d.com/
+- https://www.photonengine.com/pun
+- https://www.youtube.com/watch?v=W3aieHjyNvw
+- https://www.gafferongames.com/categories/game-networking/
+- https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
+- https://www.amazon.com/Multiplayer-Game-Programming-Architecting-Networked/dp/0134034309
+- https://www.gabrielgambetta.com/client-server-game-architecture.html
+
