@@ -9,12 +9,15 @@ Unity Developer Roadmap
 - https://docs.unity3d.com/Manual/scripting-backends.html
 - https://www.educative.io/path/zero-to-hero-in-c-sharp
 - https://www.educative.io/courses/getting-started-linq-c-sharp
+- https://exercism.org/tracks/csharp
 
 ## Version Control
 - https://blinry.itch.io/oh-my-git
 - https://github.com/
 
 # Resources and memory
+- https://docs.unity3d.com/Manual/performance-memory-overview.html
+- https://docs.unity3d.com/Manual/performance-managed-memory.html
 - https://www.oreilly.com/library/view/c-80-in/9781492051121/
 - https://docs.unity3d.com/Manual/AssetWorkflow.html
 - https://docs.unity3d.com/Manual/AssetBundlesIntro.html
@@ -40,3 +43,7 @@ Unity Developer Roadmap
 - https://docs.unity3d.com/Packages/com.unity.timeline@1.2/manual/index.html
 - https://dotween.demigiant.com/
 
+## Gameplay
+# Physics 
+- https://www.youtube.com/playlist?list=PLYnrabpSIM-9t5JNPszbIe4S4Tz81o76A
+- https://pikuma.com/blog/math-for-game-developers
