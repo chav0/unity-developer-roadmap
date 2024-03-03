@@ -40,12 +40,14 @@
 - https://docs.unity3d.com/Packages/com.unity.timeline@1.2/manual/index.html
 - https://dotween.demigiant.com/
 
-## Gameplay
-# Physics 
+# Gameplay
+## Physics 
 - https://www.youtube.com/playlist?list=PLYnrabpSIM-9t5JNPszbIe4S4Tz81o76A
 - https://pikuma.com/blog/math-for-game-developers
+- https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869
+- https://docs.unity3d.com/Manual/PhysicsSection.html
 
-# Multiplayer 
+## Multiplayer 
 - https://docs-multiplayer.unity3d.com/
 - https://www.photonengine.com/pun
 - https://www.youtube.com/watch?v=W3aieHjyNvw
@@ -54,3 +56,18 @@
 - https://www.amazon.com/Multiplayer-Game-Programming-Architecting-Networked/dp/0134034309
 - https://www.gabrielgambetta.com/client-server-game-architecture.html
 
+## AI
+- https://www.gdcvault.com/play/1018040/Architecture-Tricks-Managing-Behaviors
+- https://gdcvault.com/play/1021848/Building-a-Better-Centaur-AI
+- https://www.amazon.com/AI-Games-Third-Ian-Millington-dp-1138483974/dp/1138483974
+- https://github.com/DreamersIncStudios/ECS-IAUS-sytstem
+- https://en.wikipedia.org/wiki/A*_search_algorithm
+
+# Architecture 
+- https://www.educative.io/courses/data-structures-interviews-cs
+- https://www.amazon.com/Grokking-Algorithms-Second-Aditya-Bhargava-dp-1633438538/dp/1633438538
+- https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns-dp-161729473X/dp/161729473X
+- https://refactoring.guru/design-patterns
+- https://uniandes-se4ma.gitlab.io/books/chapter8/mvc-mvvm-mv-mvwhat.html
+- https://unity.com/dots
+- https://github.com/dbartolini/data-oriented-design
