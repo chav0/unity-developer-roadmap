@@ -67,7 +67,35 @@
 - https://www.educative.io/courses/data-structures-interviews-cs
 - https://www.amazon.com/Grokking-Algorithms-Second-Aditya-Bhargava-dp-1633438538/dp/1633438538
 - https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns-dp-161729473X/dp/161729473X
+- https://github.com/neuecc/UniRx
 - https://refactoring.guru/design-patterns
 - https://uniandes-se4ma.gitlab.io/books/chapter8/mvc-mvvm-mv-mvwhat.html
 - https://unity.com/dots
 - https://github.com/dbartolini/data-oriented-design
+- https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
+
+# Next Level
+## Optimization and profiling
+- https://docs.unity3d.com/Manual/Profiler.html
+- https://unity.com/how-to/use-memory-profiling-unity
+
+## Concurrency 
+- https://learn.unity.com/tutorial/coroutines
+- https://www.educative.io/courses/c-sharp-concurrency-for-senior-engineering-interviews
+- https://github.com/Cysharp/UniTask
+
+## Build
+- https://docs.unity3d.com/Packages/com.unity.scriptablebuildpipeline@1.21/manual/index.html
+
+## Tools
+- https://developers.helpshift.com/sdkx-unity/
+- https://www.zendesk.com/unity/
+- https://firebase.google.com/docs/analytics/unity/start?hl=ru
+- https://unity.com/products/unity-ads
+- https://developers.google.com/admob/unity/quick-start?hl=ru
+- https://documentation.onesignal.com/docs/unity-sdk-setup
+
+## Testing
+- https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/index.html
+- https://docs.unity3d.com/Packages/com.unity.test-framework.performance@3.0/manual/index.html
+- https://github.com/getsentry/sentry-unity
